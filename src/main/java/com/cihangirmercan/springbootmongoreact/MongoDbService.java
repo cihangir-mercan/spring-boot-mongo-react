@@ -1,7 +1,5 @@
 package com.cihangirmercan.springbootmongoreact;
 
-import static com.mongodb.client.model.Filters.eq;
-
 import java.util.ArrayList;
 import java.util.List;
 
