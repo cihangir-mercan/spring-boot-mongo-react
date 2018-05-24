@@ -1,6 +1,6 @@
 # spring-boot-mongo-react
 
-Spring Boot, React and MongoDB Java Driver (No JPA). Demo: https://spring-boot-mongo-react.herokuapp.com/.
+CRUD with Spring Boot, React and MongoDB Java Driver (No JPA). Demo: https://spring-boot-mongo-react.herokuapp.com/.
 
 ```
 mvn clean install
